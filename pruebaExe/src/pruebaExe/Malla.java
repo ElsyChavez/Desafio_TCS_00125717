@@ -93,7 +93,7 @@ public class Malla extends JFrame {
 	contentPane.add(btnPrTa);
 	
 	//imagen del dominio
-	ImageIcon imgMa = new ImageIcon("src/images/mallaImagen.png");
+	ImageIcon imgMa = new ImageIcon("images/mallaImagen.png");
 	JLabel lMa = new JLabel();
 	lMa.setBackground(new Color(219, 112, 147));
 	lMa.setForeground(new Color(250, 240, 230));

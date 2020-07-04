@@ -92,7 +92,7 @@ public class ComponenteK extends JFrame {
 	contentPane.add(btnCompG);
 	
 	//imagen del componente K
-	ImageIcon imgComp = new ImageIcon("src/images/componenteKImagen.png");
+	ImageIcon imgComp = new ImageIcon("images/componenteKImagen.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));

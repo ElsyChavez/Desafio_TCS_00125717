@@ -94,7 +94,7 @@ public class Ensamblaje extends JFrame {
 	btnCompG.setText("PASO 8");
 	contentPane.add(btnCompG);
 	
-	ImageIcon img2 = new ImageIcon("src/ensamblaje/ensamblaje.gif");
+	ImageIcon img2 = new ImageIcon("ensamblaje/ensamblaje.gif");
 	JLabel label3 = new JLabel();
 	label3.setBounds(37, 25, 690, 388);
 	label3.setIcon(new ImageIcon(img2.getImage()));

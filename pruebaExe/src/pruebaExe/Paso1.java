@@ -94,7 +94,7 @@ public class Paso1 extends JFrame {
 	
 	//imagen del paso 1
 	
-	ImageIcon imgP1 = new ImageIcon("src/images/paso1Imagen.png");
+	ImageIcon imgP1 = new ImageIcon("images/paso1Imagen.png");
 	JLabel lP1 = new JLabel();
 	lP1.setBackground(new Color(219, 112, 147));
 	lP1.setForeground(new Color(250, 240, 230));

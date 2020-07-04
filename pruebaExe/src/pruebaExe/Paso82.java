@@ -93,7 +93,7 @@ public class Paso82 extends JFrame {
 	contentPane.add(btnCompG);
 	
 	//imagen del paso 8 parte 3
-	ImageIcon imgComp = new ImageIcon("src/ensamblaje/paso82Imagen.png");
+	ImageIcon imgComp = new ImageIcon("ensamblaje/paso82Imagen.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));

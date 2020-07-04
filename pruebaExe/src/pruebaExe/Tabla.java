@@ -94,7 +94,7 @@ public class Tabla extends JFrame {
 	
 	//imagen de la tabla de conectividades
 	
-	ImageIcon imgTab = new ImageIcon("src/images/tablaConectividadesImagen.png");
+	ImageIcon imgTab = new ImageIcon("images/tablaConectividadesImagen.png");
 	JLabel lTab = new JLabel();
 	lTab.setBackground(new Color(219, 112, 147));
 	lTab.setForeground(new Color(250, 240, 230));

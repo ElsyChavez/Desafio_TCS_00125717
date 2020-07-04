@@ -93,7 +93,7 @@ public class Paso5 extends JFrame {
 	
 	//imagen del paso 5 parte 1
 	
-	ImageIcon imgP5 = new ImageIcon("src/images/paso5Imagen.png");
+	ImageIcon imgP5 = new ImageIcon("images/paso5Imagen.png");
 	JLabel lP5 = new JLabel();
 	lP5.setBackground(new Color(219, 112, 147));
 	lP5.setForeground(new Color(250, 240, 230));

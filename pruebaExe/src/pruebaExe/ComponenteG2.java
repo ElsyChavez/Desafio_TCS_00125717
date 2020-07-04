@@ -93,7 +93,7 @@ public class ComponenteG2 extends JFrame {
 	
 	//imagen del componente G parte 1
 	
-	ImageIcon imgComp = new ImageIcon("src/images/componenteG2Imagen.png");
+	ImageIcon imgComp = new ImageIcon("images/componenteG2Imagen.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));

@@ -71,7 +71,7 @@ public class Bienvenida {
 		btnNewButton.setText("Begin here");
 		frame.getContentPane().add(btnNewButton);
 		
-		ImageIcon img1 = new ImageIcon("src/images/bienvenida.png");
+		ImageIcon img1 = new ImageIcon("images/bienvenida.png");
 		JLabel label2 = new JLabel();
 		label2.setBounds(0, 0, 500, 502);
 		label2.setIcon(new ImageIcon(img1.getImage().getScaledInstance(label2.getWidth(), label2.getHeight(), Image.SCALE_SMOOTH)));
