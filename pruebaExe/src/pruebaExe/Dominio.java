@@ -93,7 +93,7 @@ public class Dominio extends JFrame {
 	contentPane.add(btnCon);
 	
 	//imagen del dominio
-	ImageIcon imgDom = new ImageIcon("images/dominioImagen.png");
+	ImageIcon imgDom = new ImageIcon("src/images/dominioImagen.png");
 	JLabel lDom = new JLabel();
 	lDom.setBackground(new Color(219, 112, 147));
 	lDom.setForeground(new Color(250, 240, 230));

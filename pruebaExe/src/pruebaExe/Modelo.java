@@ -73,7 +73,7 @@ public class Modelo extends JFrame {
 		
 		//imagen con el modelo a utilizar
 		
-		ImageIcon imgM = new ImageIcon("images/modeloImagen.png");
+		ImageIcon imgM = new ImageIcon("src/images/modeloImagen.png");
 		JLabel lMo = new JLabel();
 		lMo.setBackground(new Color(219, 112, 147));
 		lMo.setForeground(new Color(250, 240, 230));

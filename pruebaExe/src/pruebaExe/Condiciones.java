@@ -94,7 +94,7 @@ public class Condiciones extends JFrame {
 	
 	//imagen de las condiciones
 	
-	ImageIcon imgCond = new ImageIcon("images/condicionesImagen.png");
+	ImageIcon imgCond = new ImageIcon("src/images/condicionesImagen.png");
 	JLabel lCond = new JLabel();
 	lCond.setBackground(new Color(219, 112, 147));
 	lCond.setForeground(new Color(250, 240, 230));

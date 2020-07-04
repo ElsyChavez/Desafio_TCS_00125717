@@ -93,7 +93,7 @@ public class PreEnsamblaje extends JFrame {
 	contentPane.add(btnCompG);
 	
 	//imagen del pre ensamblaje
-	ImageIcon imgComp = new ImageIcon("ensamblaje/preEnsamblajeImagen.png");
+	ImageIcon imgComp = new ImageIcon("src/ensamblaje/preEnsamblajeImagen.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));

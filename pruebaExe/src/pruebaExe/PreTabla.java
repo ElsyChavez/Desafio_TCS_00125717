@@ -94,7 +94,7 @@ public class PreTabla extends JFrame {
 		
 		//imagen de la pre tabla
 		
-		ImageIcon imgPTa = new ImageIcon("images/preTablaImagen.png");
+		ImageIcon imgPTa = new ImageIcon("src/images/preTablaImagen.png");
 		JLabel lPta = new JLabel();
 		lPta.setBackground(new Color(219, 112, 147));
 		lPta.setForeground(new Color(250, 240, 230));

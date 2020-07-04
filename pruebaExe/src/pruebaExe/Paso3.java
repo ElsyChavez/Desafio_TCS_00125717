@@ -93,7 +93,7 @@ public class Paso3 extends JFrame {
 	
 	//imagen del paso 3
 	
-	ImageIcon imgP3 = new ImageIcon("images/paso3Imagen.png");
+	ImageIcon imgP3 = new ImageIcon("src/images/paso3Imagen.png");
 	JLabel lP3 = new JLabel();
 	lP3.setBackground(new Color(219, 112, 147));
 	lP3.setForeground(new Color(250, 240, 230));

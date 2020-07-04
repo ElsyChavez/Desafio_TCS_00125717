@@ -71,7 +71,7 @@ public class Final extends JFrame {
 		contentPane.add(btnRCompC1);
 	
 	//imagen del final
-	ImageIcon imgComp = new ImageIcon("ensamblaje/theEnd.png");
+	ImageIcon imgComp = new ImageIcon("src/ensamblaje/theEnd.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));

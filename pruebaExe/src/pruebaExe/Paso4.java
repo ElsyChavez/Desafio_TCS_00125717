@@ -93,7 +93,7 @@ public class Paso4 extends JFrame {
 	
 	//imagen del paso 4
 	
-	ImageIcon imgP4 = new ImageIcon("images/paso4Imagen.png");
+	ImageIcon imgP4 = new ImageIcon("src/images/paso4Imagen.png");
 	JLabel lP4 = new JLabel();
 	lP4.setBackground(new Color(219, 112, 147));
 	lP4.setForeground(new Color(250, 240, 230));

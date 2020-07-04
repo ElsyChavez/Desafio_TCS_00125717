@@ -93,7 +93,7 @@ public class Componentes extends JFrame {
 	
 	//imagen de los componentes
 	
-	ImageIcon imgComp = new ImageIcon("images/componentesImagen.png");
+	ImageIcon imgComp = new ImageIcon("src/images/componentesImagen.png");
 	JLabel lComp = new JLabel();
 	lComp.setBackground(new Color(219, 112, 147));
 	lComp.setForeground(new Color(250, 240, 230));
